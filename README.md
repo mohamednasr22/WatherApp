@@ -7,7 +7,7 @@ npm i
 ### Run App
 cd WatherApp &&
 npm start
->application will run automtic on default browser>
+>application will run automtic on default browser
 
 ### Using
 write city and country to get wather info
